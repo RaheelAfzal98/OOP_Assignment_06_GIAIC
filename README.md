@@ -3,7 +3,7 @@
 📘 **Python OOP Practice Assignments (Traditional Style)**
 This repository offers 21 structured assignments designed to strengthen your understanding of traditional Object-Oriented Programming (OOP) in Python. Each task is organized in its own directory and includes an app.py file with working, well-commented code examples.
 
-🔍** Assignment Overview**
+🔍**Assignment Overview** 
 **Using self:** Create a Student class that sets and prints attributes using instance reference.
 
 **Using cls:** Use a class variable and method to count how many objects are created.
@@ -22,7 +22,7 @@ This repository offers 21 structured assignments designed to strengthen your und
 
 **Using Abstract Base Classes:** Use the abc module to enforce method implementation.
 
-Instance-Level Methods: Operate using values tied to individual objects.
+**Instance-Level Methods:** Operate using values tied to individual objects.
 
 **Counting with Class Method:** Keep track of data added across instances using @classmethod.
 
@@ -30,7 +30,7 @@ Instance-Level Methods: Operate using values tied to individual objects.
 
 **Class Composition:** Embed one object within another to model "has-a" relationships.
 
-**Aggregation Pattern: **Link classes without creating tight dependencies.
+**Aggregation Pattern:** Link classes without creating tight dependencies.
 
 **Diamond Problem & MRO:** See how Python resolves method calls in multiple inheritance scenarios.
 
@@ -64,4 +64,4 @@ Abstract design
 
 Decorators and dunder methods
 
-Happy coding and mastering OOP! 🧠💻
+**Happy coding and mastering OOP!** 🧠💻
